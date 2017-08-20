@@ -33,18 +33,7 @@ What are the requirements:
 
 * Android below 4.2
 * Lineage 7+ with latest nightly
-
-What must I change to use another Android version?
-
-* nothing, you just can not use another version!
-
-Why?
-
-* because broadcom implemented a really strange behaviour into the bluedroid stack which is used since Android 4.2, this we can not compensate!
-
-But Why?
-
-* Because you have not read or understood the other answers :(  
+* Root rigths on any android and use this method: https://github.com/gregorybel/combo-pairing/
 
 How do I build it?
 
